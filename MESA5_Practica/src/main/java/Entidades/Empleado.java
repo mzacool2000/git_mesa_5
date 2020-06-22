@@ -66,6 +66,4 @@ public class Empleado {
         this.salario = salario;
     }
     
-    
-    
 }
